@@ -1,0 +1,12 @@
+{
+  "name": "fast-vanity-address-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Soham Zemse",
+  "license": "MIT",
+  "dependencies": {
+    "@noble/secp256k1": "^1.5.5",
+    "ethers": "^5.6.3",
+    "fs-extra": "^10.0.1"
+  }
+}
